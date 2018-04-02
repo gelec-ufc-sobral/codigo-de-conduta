@@ -23,4 +23,4 @@ que não haja reincidência, de forma a se manter um ambiente amistoso e livre d
 
 
 
-obs: Código de conduta criado tendo por base o código de conduta da [PythonBrasil](https://github.com/pythonbrasil/codigo-de-conduta).
+##### obs: Código de conduta criado tendo por base o código de conduta da [PythonBrasil](https://github.com/pythonbrasil/codigo-de-conduta).
