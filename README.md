@@ -1,4 +1,4 @@
-#Código de Conduta do Grupo de Estudos GELEC
+# Código de Conduta do Grupo de Estudos GELEC
 
 O Grupo de Estudos em Linux da Engenharia da Computação é ambiente de integração, capacitação e inclusão para 
 todos e todas que sentirem interesse em estudar ou utilizar sistemas Linux e/ou ferramentas *opensources*.
